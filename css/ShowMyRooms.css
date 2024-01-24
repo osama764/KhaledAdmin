@@ -239,11 +239,11 @@ input[type="text"] {
   
 }
 .arrows .arrow-up{
-  top: 20px;
+  top: -30px;
 
 }
 .arrows .arrow-down{
-bottom: -125px;
+bottom: -135px;
 }
 .addDefferentDevice {
   position: relative;
