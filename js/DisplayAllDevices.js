@@ -251,7 +251,7 @@ function DisplayPushDevices() {
             let card = `    <div class="card border-0 p-2">
             <span style="opacity:0">${i}</span>
             <p class="nameOfDevice">${device.Name}</p>
-            <i class="fa-solid fa-trash-can deletbtnDevice pushbtn"></i>
+            
             <div class="container arrows">
               ${upArrow}
               ${downArrow}
